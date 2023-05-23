@@ -27,3 +27,5 @@ This project is a backend for an e-commerce site. This application uses Express.
 ## Mock-Up
 
 You can access a live demo vedio [here](https://watch.screencastify.com/v/hLHlQOTeUO6S0GBCNRY3)
+<img width="1342" alt="截屏2023-05-23 下午7 33 55" src="https://github.com/DGZCSXWD/E-Commerce-Back-End---ORM/assets/122780020/0078432b-2a14-4f5b-a738-4d94c7984f6b">
+
